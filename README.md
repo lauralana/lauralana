@@ -1,8 +1,9 @@
-### <p style="text-align:center"> "I solemnly swear that I am up to no good." </p>
+### <div align="center"> <em>" I solemnly swear that I am up to no good. " </em> </div>
+<br>
 
-- 🌱 I’m currently learning: Full Stack Web Development on <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Feminist; Cat mother; Potterhead; Otaku & Operander 
+- 🌱   I’m currently learning: Full Stack Web Development on <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
+- ♀️ Pronouns: She/Her 
+- ⚡    Fun fact: Feminist; Cat mother; Potterhead ; Otaku & Operander
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laura-lana/" target="_blank"> 
@@ -31,3 +32,5 @@
   <a href="https://www.linkedin.com/in/laura-lana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://letterboxd.com/lauhlana/" target="_blank"> <img src="https://img.shields.io/badge/-Letterboxd-03A61C?style=for-the-badge&logo=audi&logoColor=white" target="_blank"> </a>
 </div>
+  <br>
+   <h3 align="center"> <em> " Mischief managed. " </em> </h3>
