@@ -4,6 +4,7 @@
 - 🌱   I’m currently learning: Full Stack Web Development on <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
 - ♀️ Pronouns: She/Her 
 - ⚡    Fun fact: Feminist; Cat mother; Potterhead; Otaku & Operander
+- 📪 Contact : lauramarqueslana@gmail.com
 
 <div align="center">
   <a href="https://www.linkedin.com/in/laura-lana/" target="_blank"> 
