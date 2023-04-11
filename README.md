@@ -28,9 +28,8 @@
     <th>Jest</th>
     <th>Docker</th>
     <th>MongoDB</th>
-    <!--
     <th>Python</th>
-    -->
+
   </tr>
   <tr>
     <th><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
@@ -44,7 +43,7 @@
     <th><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></th>
     <th><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></th>
      <th><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"></th>
-<!--   <th><img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th> -->
+ <th><img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th>
   </tr>
 </table>  
 <!-- Site para buscar os icones: https://devicon.dev/ -->
