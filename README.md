@@ -52,11 +52,11 @@
 <br>
   
 <div> 
-  <a href="https://www.instagram.com/lauhlana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/lauhlana" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://br.pinterest.com/lauhlana/_saved/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank"></a> 
+<!--   <a href="https://www.instagram.com/lauhlana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+ 	<a href="https://twitter.com/devlauralana" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<!--  <a href="https://br.pinterest.com/lauhlana/_saved/" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/laura-lana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://letterboxd.com/lauhlana/" target="_blank"> <img src="https://img.shields.io/badge/-Letterboxd-03A61C?style=for-the-badge&logo=audi&logoColor=white" target="_blank"> </a>
+<!--   <a href="https://letterboxd.com/lauhlana/" target="_blank"> <img src="https://img.shields.io/badge/-Letterboxd-03A61C?style=for-the-badge&logo=audi&logoColor=white" target="_blank"> </a> -->
 </div>
   <br>
    <h3 align="center"> <em> " Mischief managed. " </em> </h3>
