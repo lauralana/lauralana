@@ -1,9 +1,10 @@
 ### <div align="center"> <em>" I solemnly swear that I am up to no good. " </em> </div>
 <br>
 
-- 🌱   I’m currently learning: Full Stack Web Development on <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
+- 🌱   I’m currently learning: Angular and React Native
+- 💻 Full Stack Developer at Lexart
 - ♀️ Pronouns: She/Her 
-- ⚡    Fun fact: Feminist; Cat mother; Potterhead; Otaku & Operander
+- ⚡ Fun fact: Feminist; Cat mother; Potterhead; Otaku & Operander
 - 📪 Contact : lauramarqueslana@gmail.com
 
 <div align="center">
