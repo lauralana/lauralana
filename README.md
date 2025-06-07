@@ -2,7 +2,7 @@
 <br>
 
 - 🌱   I’m currently learning: React Query
-- 💻 FrontEnd Stack Developer at Makasi
+- 💻 FrontEnd Developer at Makasi
 - ♀️ Pronouns: She/Her 
 - ⚡ Fun fact: Feminist; Cat mother; Potterhead & Operander
 - 📪 Contact : lauramarqueslana@gmail.com
