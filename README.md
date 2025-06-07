@@ -4,7 +4,7 @@
 - 🌱   I’m currently learning: Angular and React Native
 - 💻 Full Stack Developer at Lexart
 - ♀️ Pronouns: She/Her 
-- ⚡ Fun fact: Feminist; Cat mother; Potterhead; Otaku & Operander
+- ⚡ Fun fact: Feminist; Cat mother; Potterhead & Operander
 - 📪 Contact : lauramarqueslana@gmail.com
 
 <div align="center">
