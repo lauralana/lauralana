@@ -1,8 +1,8 @@
 ### <div align="center"> <em>" I solemnly swear that I am up to no good. " </em> </div>
 <br>
 
-- 🌱   I’m currently learning: Angular and React Native
-- 💻 Full Stack Developer at Lexart
+- 🌱   I’m currently learning: React Query
+- 💻 FrontEnd Stack Developer at Makasi
 - ♀️ Pronouns: She/Her 
 - ⚡ Fun fact: Feminist; Cat mother; Potterhead & Operander
 - 📪 Contact : lauramarqueslana@gmail.com
